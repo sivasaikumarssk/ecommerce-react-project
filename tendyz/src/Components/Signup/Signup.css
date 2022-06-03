@@ -1,0 +1,18 @@
+.left img{
+    /* border: 1px solid red; */
+    height: 500px;
+    width: 100%;
+}
+.left{
+    margin-left: 0px;
+}
+.signup_div{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.right{
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    margin-top: 10px;
+    padding-top: 200px;
+}

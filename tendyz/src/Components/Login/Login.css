@@ -1,0 +1,16 @@
+.left img{
+    /* border: 1px solid red; */
+    height: 400px;
+    width: 100px;
+}
+
+.login_div{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.right{
+    /* border: 1px solid red; */
+    background-color: whitesmoke;
+    margin-top: 10px;
+    padding-top: 200px;
+}

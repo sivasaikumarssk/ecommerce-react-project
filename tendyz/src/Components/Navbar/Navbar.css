@@ -1,0 +1,34 @@
+
+.navbar_div{
+    
+    width: 90%;
+    background-color: rgb(122, 207, 169);
+    display: flex;
+    gap: 160px;
+    padding-left: 120px;
+    /* border-radius: 10px; */
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.navbar_div h1{
+    color: red;
+    
+}
+.nav{
+    display: flex;
+   
+
+}
+.logo_div{
+    background-color: rgb(165, 102, 102);
+    /* border-radius: 20px; */
+    width: 10%;
+    
+}
+.login_signup{
+    display: flex;
+    gap: 15px;
+    margin-left: 35%;
+}

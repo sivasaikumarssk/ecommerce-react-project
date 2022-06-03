@@ -1,0 +1,23 @@
+
+.hero_img_div{
+    display: flex;
+}
+.hero_img_div img{
+    width: 50%;
+    height: 250px;
+}
+.category{
+    display: flex;
+    gap: 80px;
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(165, 102, 102);
+    
+}
+.category div{
+    margin-left: 100px;
+}
+.category img{
+    width: 90%;
+    border-radius: 20px;
+}
